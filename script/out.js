@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "out",
+  name: "خروج",
   version: "1.0.0",
   role: 2,
   hasPrefix: true,
