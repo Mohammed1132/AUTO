@@ -12,7 +12,7 @@ module.exports = {
 
     name: "ريكي",
 
-    usePrefix: false,
+    hasPrefix: false,
 
     description: "ذكاء اصطناعي.",
 
