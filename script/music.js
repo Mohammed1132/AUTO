@@ -1,12 +1,12 @@
 const path = require('path');
 module.exports.config = {
-  name: "music",
+  name: "صوت",
   version: "1.0.0",
   role: 0,
   hasPrefix: true,
   aliases: ['play'],
   usage: 'Music [promt]',
-  description: 'Search music in youtube',
+  description: 'البحث عن مقاطع صوتية',
   credits: 'Deveploper',
   cooldown: 5
 };
