@@ -4,7 +4,7 @@ module.exports.config = {
     hasPermssion: 0,
     credits: "عمر",
     description: "تصفع حد بمنشن",
-    usePrefix: true,
+    hasPrefix: true,
     commandCategory: "ترفيه",
     usages: "[للشخص لتريده@حط]",
     cooldowns: 5,
