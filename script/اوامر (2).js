@@ -14,7 +14,7 @@ module.exports.config = {
 
   description: "الحصول على مساعدة حول الأوامر المتاحة.",
 
-  usePrefix: true,
+  hasPrefix: true,
 
   commandCategory: "معلومات",
 
