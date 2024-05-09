@@ -10,7 +10,7 @@ module.exports.config = {
 
     description: "تصفية مستخدمي Facebook",
 
-    usePrefix: true,
+    hasPrefix: true,
 
     commandCategory: "أدوات الإدارة",
 
