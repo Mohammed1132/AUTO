@@ -2,11 +2,11 @@ const axios = require('axios');
 const fs = require('fs');
 const cheerio = require('cheerio');
 module.exports.config = {
-  name: "pinterest",
+  name: "صور",
   version: "1.0.0",
   role: 0,
   hasPrefix: true,
-  description: "Search for images on Pinterest.",
+  description: "البحث عن صور.",
   usages: "pinterest [query] - [amount]",
   credits: "Developer",
 };
