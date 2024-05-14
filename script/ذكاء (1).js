@@ -10,7 +10,7 @@ module.exports = {
 
   config: {
 
-    name: " ",
+    name: "ai",
 
     hasPrefix: false,
 
